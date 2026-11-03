@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sinan-nis/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sinan-nis/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sinan-nis/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/sinan-nis/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sinan-nis/LeetCode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sinan-nis/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sinan-nis/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
