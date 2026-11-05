@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sinan-nis/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/sinan-nis/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sinan-nis/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sinan-nis/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sinan-nis/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sinan-nis/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/sinan-nis/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sinan-nis/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sinan-nis/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sinan-nis/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sinan-nis/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sinan-nis/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sinan-nis/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sinan-nis/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sinan-nis/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sinan-nis/LeetCode/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sinan-nis/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sinan-nis/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
